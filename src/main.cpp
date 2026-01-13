@@ -1,3 +1,4 @@
+//LED light blinks
 //#include <Arduino.h>
 // int red = 7;
 // void setup() {
@@ -17,7 +18,7 @@
 
 #include <Arduino.h>
 //#include "fun.h"
-
+//fun controll
 int motorA = 10;
 int motorB = 11;
 
