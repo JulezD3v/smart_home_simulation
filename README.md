@@ -149,3 +149,5 @@ This is a **learning repo**, not a polished product.
 Mistakes are expected. Especiall on my side
 Understanding them is the goal.
 
+These files are not properly synced
+
