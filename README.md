@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository documents my **hands-on learning journey** building **smart home simulations** using the **KidsBits coding box** and **C++**.
+This repository documents my **hands-on learning journey** building **smart home simulations** using the **KidsBits coding box** and a **simple robotic car** with **C++**.
 
 I’m intentionally **not using Mixly**. (Secretly trying to preserve my RAM😅)
 Instead, I’m using **PlatformIO in VS Code** to learn **proper embedded C++**, real project structure, and hardware control.
@@ -13,7 +13,7 @@ It’s about understanding how things actually work and preserving storage as a 
 
 ## Why this project exists
 
-* To get **comfortable with the KidsBits hardware**
+* To get **comfortable with the KidsBits hardware** and a simple **Robotic Car***
 * To learn **embedded C++** in a real environment
 * To move from beginner Arduino-style sketches to **clean, structured code**
 * To simulate **real smart-home scenarios** (lights, fans, sensors, automation logic)
@@ -56,6 +56,10 @@ Why PlatformIO?
 * AGB Led
 * Power Led
 * Servo
+
+## Sensors the Robotic Car(The smart vacuum cleaner)
+* Ultrasonic module
+* Light Sensors
   
 
 
@@ -73,6 +77,9 @@ This repo evolves as I learn. Projects include:
 * 🚧 Combined sensor logic (Sound input + buzzer)
 * 🚧 Combined sensor logic (Photocell Sensor +AGB Led)(think of the outdoor lights)
 * 🚧 Combined sensor logic (Gas Sensor + buzzer)
+* 🚧 Ultrasonic module (to avoid objects)
+* 🚧 Ultrasonic module + bottom Light Sensors ( avoid objects and prevent it from falling)
+ 
 
 Each project focuses on **one core concept**, then builds up.
 
