@@ -1,4 +1,4 @@
-# 🏠 Smart Home Simulation — KidsBits + C++ (PlatformIO)
+# 🏠 Smart Home Simulation — KidsBits & Robotic Car + C++ (PlatformIO)
 
 ## Overview
 
